@@ -72,11 +72,11 @@ async (msg, Gifted, conText) => {
 
     const menuButtons = buildButtons([
         [
-            urlButton('🌐 Bot Site', 'https://giftedsite.vercel.app'),
-            urlButton('👑 Owner', 'https://t.me/mauricegift')
+            urlButton('🌐 Bot Site', 'https://convayto.vercel.app'),
+            urlButton('👑 Owner', 'https://t.me/cyberpunk045')
         ],
         [
-            urlButton('💬 Support Group', 'https://t.me/giftedmd')
+            urlButton('💬 Support Group', 'https://t.me/+-4jmRbsQY6JmZGJk')
         ]
     ]);
 
