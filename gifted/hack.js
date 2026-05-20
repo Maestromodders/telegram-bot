@@ -32,7 +32,7 @@ async (msg, Gifted, conText) => {
             "```SENDING LOG DOCUMENTS...```",
             "```SUCCESSFULLY SENT DATA AND Connection disconnected```",
             "```BACKLOGS CLEARED```",
-            "```POWERED BY GIFTED TBOT```",
+            "```POWERED BY CYBERPUNK-BULLY TBOT```",
             "```SYSTEM FUCKED 💀```"
         ];
 
