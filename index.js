@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
     res.status(404).send(`
       <html>
         <body style="font-family: Arial; text-align: center; padding: 50px;">
-          <h1>🤖 GiftedTech Telegram Bot</h1>
+          <h1>🤖 CYBERPUNKBULLY Bot</h1>
           <p>gifted.html file not found in ./gift/ directory</p>
           <p>Please ensure the file exists at: ${htmlPath}</p>
           <div style="margin-top: 20px; color: #666;">
